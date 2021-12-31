@@ -1,0 +1,20 @@
+body{
+	background-image: url(background.jpg);
+	color: white;
+}
+p{
+	font-size: 18px;
+}
+.image1{
+	width:400px;
+	height:250px;
+	padding: 10px;
+}
+#box{
+	text-align:center;
+	width: 900px;
+	margin: auto;
+	border: black;
+	border-style: dashed;
+	padding:10px;
+}
